@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **desham8@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1KEy_DMnNe_F9cqRpG0E8fbCayO4NbfP4/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1-JaifGdhSIxDyxvOLdul2czDI_5tt3fh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
