@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Noaman</h1>
 <h3 align="center">A passionate AI Engineer from Egypt</h3>
-<img align="right" alt="AWS" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rfob6rvo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dtqwl9twt0q3lp2i4z7z.png">
+<img align="right" alt="AWS" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moostafa1&label=Profile%20views&color=0e75b6&style=flat" alt="moostafa1" /> </p>
 
