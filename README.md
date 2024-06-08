@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **[desham8@gmail.com](mailto:desham8@gmail.com)**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qI22XXV8TiA4dTzKjuxJ_tw9LiHgRYCo/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1zeWloCsZMDD9Xs_GFEudgitoNt8FwNEe/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>
 - <a href="https://www.datascienceportfol.io/MostafaNoamanAhmed" target="_blank" rel="noopener noreferrer">portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
